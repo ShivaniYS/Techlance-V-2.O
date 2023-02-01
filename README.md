@@ -1,2 +1,2 @@
-# Techlance-V-2.O
-Built a freelancing website 
+# Shivani YS Portfolio Site
+Built a Portfolio Site using BootStrap
